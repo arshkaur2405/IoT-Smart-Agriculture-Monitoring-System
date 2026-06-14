@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+data/agriculture_data.csv
+
+.streamlit/secrets.toml
+
+.env
+
+.idea/
+.vscode/
